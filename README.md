@@ -58,7 +58,6 @@
 - GraphQL / AWS / Docker / Redux / TypeScript
 - Advance React JS
 - Front End Development Libraries (freeCodeCamp)
-- Umbrella Apps with Elixir
 
 
 <!--  ### Github Stats:
