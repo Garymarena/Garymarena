@@ -55,7 +55,7 @@
 
 ### 🌱 I'm currently learning... 
 
-- GraphQL / AWS / Docker / Redux / TypeScript
+- GraphQL / AWS / Docker / Redux / TypeScript / Material ui
 - Advance React JS
 - Front End Development Libraries (freeCodeCamp)
 
