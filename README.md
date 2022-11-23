@@ -57,7 +57,7 @@
 
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui
 - Advance React JS
-- Front End Development Libraries (freeCodeCamp)
+- Elixir
 
 
 <!--  ### Github Stats:
