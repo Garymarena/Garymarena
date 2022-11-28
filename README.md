@@ -58,6 +58,7 @@
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui
 - Advance React JS
 - Elixir
+- SCRUM Fundamentals and SCRUM Master
 
 
 <!--  ### Github Stats:
