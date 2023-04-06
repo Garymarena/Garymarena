@@ -55,9 +55,10 @@
 
 ### 🌱 I'm currently learning... 
 
-- GraphQL / AWS / Docker / Redux / TypeScript / Material ui
+- GraphQL / AWS / Docker / Redux / TypeScript / Material ui 
 - Advance React JS
 - Elixir
+- Django REST
 - Digital Ocean
 - SCRUM Fundamentals and SCRUM Master
 
