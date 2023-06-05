@@ -57,8 +57,8 @@
 
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui 
 - Advance React JS
-- Elixir
-- Django REST
+- Express / Node js / Mongo DB
+- MERN Stack
 - Digital Ocean
 - SCRUM Fundamentals and SCRUM Master
 
