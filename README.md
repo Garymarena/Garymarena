@@ -2,7 +2,7 @@
 
 ```shell
  { “name” : “Gary Arellano Nava”,
-   “role” : “Mid Frontend Developer | React Js”,
+   “role” : “Developer | React Js | MERN Stack”,
    “data” : 
      { 		 
       "Linkedin" : "https://www.linkedin.com/in/garymarena/", 
