@@ -56,11 +56,12 @@
 ### 🌱 I'm currently learning... 
 
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui 
-- Advance React JS
-- Express / Node js / Mongo DB
+- Advance React Js
 - MERN Stack
+- AWS
 - Digital Ocean
 - SCRUM Fundamentals and SCRUM Master
+- Cyber Security Professional Certificate
 
 
 <!--  ### Github Stats:
