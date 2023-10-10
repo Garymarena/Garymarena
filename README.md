@@ -2,6 +2,7 @@
 
 ```shell
  { “name” : “Gary Arellano Nava”,
+   "Company" : "Playa Projects" 
    “role” : “Developer | React Js | MERN Stack”,
    “data” : 
      { 		 
