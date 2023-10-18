@@ -58,11 +58,11 @@
 
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui /
 - Web Accessibility
-- Nodejs
 - Advance React Js
 - MERN Stack
 - AWS | S3
 - Digital Ocean
+- DevOps
 - SCRUM Fundamentals and SCRUM Master
 - Cyber Security Professional Certificate
 
