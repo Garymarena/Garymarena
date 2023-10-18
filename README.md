@@ -57,6 +57,7 @@
 ### 🌱 I'm currently learning... 
 
 - GraphQL / AWS / Docker / Redux / TypeScript / Material ui /
+- Web Accessibility
 - Nodejs
 - Advance React Js
 - MERN Stack
