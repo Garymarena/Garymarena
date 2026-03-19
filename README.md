@@ -56,7 +56,7 @@
 
 ### 🌱 I'm currently learning... 
 
-- GraphQL / AWS / Docker / Redux / TypeScript / Tailwind CSS / Next js
+- GraphQL / AWS / Docker / Redux / TypeScript / Tailwind CSS / Next js / Next js
 - Web Accessibility
 - Advance React Js
 - MERN Stack
