@@ -56,7 +56,7 @@
 
 ### 🌱 I'm currently learning... 
 
-- GraphQL / AWS / Docker / Redux / TypeScript / Tailwind CSS / Next js / Next js
+- GraphQL / AWS /  Redux / TypeScript / Tailwind CSS / Next js / Next js
 - Web Accessibility
 - Advance React Js
 - MERN Stack
@@ -64,7 +64,6 @@
 - Digital Ocean
 - DevOps
 - SCRUM Fundamentals and SCRUM Master
-- Cyber Security Professional Certificate
 
 
 <!--  ### Github Stats:
